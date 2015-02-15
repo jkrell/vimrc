@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/opt/home/jkrell00/git/ccsnotifications/lib/ccsnotify'
+let g:netrw_dirhist_2='/home/vagrant/.vim'
+let g:netrw_dirhist_3='/home/vagrant/go_workspace/src/github.comcast.com/jkrell00/integrations-cvl'
